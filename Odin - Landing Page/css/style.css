@@ -1,0 +1,55 @@
+
+
+
+#navbar{
+
+
+
+}
+
+div {
+
+  background-color: #1F2937;
+  color: #F9FAF8;
+  width: auto;
+  padding: 50px;
+
+
+}
+
+.random-info{
+
+    background-color: #1F2937;
+    color: #F9FAF8;
+    width: auto;
+    height: 25px
+    padding: 50px;
+    margin: 20px;
+  }
+
+
+.inspiration {
+  background-color: #E5E7EB;
+  color: #1F2937;
+  width: auto;
+  padding: 50px;
+
+}
+
+.take-action{
+  background-color: #3882F6;
+  font: #1F2937;
+  width: auto;
+  padding: 50px;
+  margin: 50px;
+
+}
+
+
+.footer {
+  background-color: #1F2937;
+  font: #F9FAF8;
+  width: auto;
+  padding: 50px;
+  margin: 20px;
+}
